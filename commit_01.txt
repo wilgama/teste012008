@@ -3,3 +3,4 @@ Commit com mais detalhes
 Pular o stage
 atualizar o remoto
 atualizar remoto para local
+remoto sem local
