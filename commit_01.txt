@@ -1,3 +1,4 @@
 Primeiro Commit
 Commit com mais detalhes 
 Pular o stage
+atualizar o remoto
